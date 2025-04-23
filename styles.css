@@ -80,7 +80,6 @@ form {
 }
 
 button {
-    all: unset;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.15rem;
     background-color: hsl(0, 0%, 35%);
@@ -95,7 +94,6 @@ button {
 
 
 button:hover {
-    all: unset;
     line-height: inherit;
     background-color: hsl(0, 0%, 85%);
     border: 1px solid hsl(0, 0%, 50%);
